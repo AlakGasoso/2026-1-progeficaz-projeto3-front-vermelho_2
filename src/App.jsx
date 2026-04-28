@@ -6,7 +6,7 @@ function App() {
       <header className="topbar">
         <div className="brand" aria-label="Vocacionar">
           <span className="brand-mark" aria-hidden="true">
-            🦉
+            
           </span>
           <span className="brand-text">Vocacionar</span>
         </div>
@@ -65,11 +65,11 @@ function App() {
           </article>
           <article>
             <strong>Cursos</strong>
-            <p>Lista organizada com busca e detalhes.</p>
+            <p>Lista com busca e detalhes.</p>
           </article>
           <article>
             <strong>Comparar</strong>
-            <p>Dois cursos lado a lado, sem confusão.</p>
+            <p>Dois cursos lado a lado.</p>
           </article>
         </div>
       </section>
