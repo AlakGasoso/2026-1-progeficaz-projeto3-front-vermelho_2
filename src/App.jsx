@@ -31,7 +31,7 @@ function App() {
         </h1>
 
         <p className="hero-copy">
-          Responda perguntas simples, conheça cursos de verdade e compare suas opções. A gente
+          Responda perguntas simples, conheça o curso dos seus sonhos e compare suas opções. A gente
           usa inteligência artificial para te dar caminhos personalizados.
         </p>
 
